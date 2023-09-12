@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+#boton {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%);
+}
+
+#image {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
